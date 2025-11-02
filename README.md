@@ -9,12 +9,12 @@
 Transform your photos into stunning artworks with a single click!  
 **ArtMorph** is a Flask-based web application that converts images into multiple artistic styles — including **Cartoon**, **Watercolor**, **Sketch**, and **Pixel Art** — using OpenCV and custom filters.
 
-![Banner](https://github.com/Monisha-pj/ArtMorph---multi-style-image-art-converter/assets/banner.png)
-*(Replace this banner with your actual project image if available)*
+![Banner](https://github.com/Monisha-pj/ArtMorph---multi-style-image-art-converter/blob/main/screenshots/home.png)
+
 
 ---
 
-## 🚀 Features
+##  Features
 - 🖼️ Upload any image from your device  
 - ✨ Convert images into multiple art styles:
   - Cartoon  
@@ -27,7 +27,7 @@ Transform your photos into stunning artworks with a single click!
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 | Layer | Technologies |
 |--------|---------------|
 | **Frontend** | HTML, CSS, JavaScript |
@@ -38,7 +38,7 @@ Transform your photos into stunning artworks with a single click!
 ---
 
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1️⃣ Clone the Repository
 ```bash
@@ -52,8 +52,28 @@ cd ArtMorph---multi-style-image-art-converter
 pip install -r requirements.txt
 ```
 
+---
+
+## 🖼️ Screenshots
+
+
 
 ### 4️⃣ Run the Flask App
 ```bash
 python app.py
 ```
+##  Screenshots
+
+
+### Cartoon
+![cartoon](https://github.com/Monisha-pj/ArtMorph---multi-style-image-art-converter/blob/main/screenshots/cartoon.png)
+
+### Watercolor
+![Watercolor](https://github.com/Monisha-pj/ArtMorph---multi-style-image-art-converter/blob/main/screenshots/watercolor.png)
+
+
+### Sketch
+![Sketch](https://github.com/Monisha-pj/ArtMorph---multi-style-image-art-converter/blob/main/screenshots/sketch.png)
+
+### Pixel Art
+![Pixel Art](https://github.com/Monisha-pj/ArtMorph---multi-style-image-art-converter/blob/main/screenshots/pixel.png)
