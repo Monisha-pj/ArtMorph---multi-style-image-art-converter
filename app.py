@@ -6,7 +6,7 @@ import cv2
 from style_filters.cartoon import cartoonize_image
 from style_filters.sketch import sketch_image
 from style_filters.watercolor import watercolor_image
-#from style_filters.pixel import pixelate_image
+from style_filters.pixel import pixelate_image
 
 app = Flask(__name__, static_folder='static')
 
